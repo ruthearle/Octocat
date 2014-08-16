@@ -1,3 +1,12 @@
 What is Git Clone?
 
+When repositiories are created they have specific address. When
+a developer would like to have the files within the repository on their local
+machine they have to download the files. This is where Git clone comes
+into action.
 
+By taking the address of the repository and passing it to the command
+'git clone' a developer can download all files related to the
+repository. In addition to having the files locally this command also
+initialises the repository locally and allows the developer to start
+commiting and pushing code immediately.
