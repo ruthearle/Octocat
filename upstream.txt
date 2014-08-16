@@ -1,1 +1,5 @@
 What Is The Upstream Remote Usually Used For?
+
+The 'upstream' branch means the git branch you cloned your
+repository from. When pushing changes made they are said to be pushed 'upstream' to the original repository. This ensures any changes made are merged with the original
+source code.
