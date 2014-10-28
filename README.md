@@ -1,4 +1,4 @@
-octocat
+Octocat
 =======
 
-Makers Academy Friday Challenge - week 2
+Week 2 Friday Challenge - Makers Academy
