@@ -3,4 +3,4 @@
 
 # Octocat
 
-Friday challenge making our way around GitHub.
+Friday challenge making our way around GitHub branches.
