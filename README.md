@@ -1,4 +1,6 @@
-Octocat
-=======
+| [*Makers Academy*](http://www.makersacademy.com) | Week 2 |
+| ------------------------------------------------ | ------ |
 
-Week 2 Friday Challenge - Makers Academy
+# Octocat
+
+Friday challenge making our way around GitHub.
