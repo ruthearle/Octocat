@@ -3,4 +3,4 @@
 
 # Octocat
 
-Friday challenge making our way around GitHub branches.
+Friday challenge making our way around GitHub (creating branches and making pull requests).
